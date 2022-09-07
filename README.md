@@ -1,0 +1,2 @@
+# OPCUA_Server_Client_XML
+This project communicates the data model of IEC 61970 CIM in a server-client manner using OPCUA. It is based on open source provided by open62541.org, and server-client code has been modified. CIM's data model was made from xsd files using Enterprise architect's extension tool. Refer to the first half of IEC619705 to make xml of the created xsd file to meet the requirements of IEC62541.
